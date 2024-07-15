@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ML AND AI**
 
-- 👯 I’m looking to collaborate on **SPPECH RECOGNITION ML PROJECTS**
+- 👯 I’m looking to collaborate on **SPEECH RECOGNITION ML PROJECTS**
 
 - 💬 Ask me about **react, python, flask, C**
 
