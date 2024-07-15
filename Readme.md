@@ -1,3 +1,14 @@
+<!-- Add a background image by including a style block with CSS to set the background for the body -->
+<style>
+  body {
+    background-image: url('https://www.artisticbird.in/uploads/images/banner/web_development.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm MOHAMMED AMAAN</h1>
 <h3 align="center">Dedicated ML and AI Enthusiast</h3>
 
@@ -66,7 +77,7 @@
 <h3 align="left">Projects</h3>
 
 **Speech Recognition Project**
-- Collaborated with the Indian Institute of Information Technology (IIIT) Hyderabad as a Research Intern on a project centered around speech recognition technology.
+- Currently working with IIIT Hyderabad as a Research Intern on a project centered around speech recognition technology.
 - Played an active role in the development and implementation phases of the project, contributing to the research, experimentation, and testing processes.
 - Engaged in data collection, preprocessing, and model training, focusing on enhancing the accuracy and efficiency of the speech recognition system.
 - Worked closely with a multidisciplinary team to address challenges, troubleshoot issues, and optimize performance.
