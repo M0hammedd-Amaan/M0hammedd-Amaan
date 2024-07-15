@@ -1,7 +1,8 @@
 <!-- Add a background image by including a style block with CSS to set the background for the body -->
 <style>
   body {
-    background-image: url('https://www.artisticbird.in/uploads/images/banner/web_development.jpg');
+    background-image: url('![image-6](https://github.com/user-attachments/assets/e96e39d1-d5b5-4797-8bf3-101ee980afec')
+');
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
