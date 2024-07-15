@@ -1,14 +1,4 @@
-<!-- Add a background image by including a style block with CSS to set the background for the body -->
-<style>
-  body {
-    background-image: url('![image-6](https://github.com/user-attachments/assets/e96e39d1-d5b5-4797-8bf3-101ee980afec')
-');
-    background-size: cover;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-</style>
+
 
 <h1 align="center">Hi 👋, I'm MOHAMMED AMAAN</h1>
 <h3 align="center">Dedicated ML and AI Enthusiast</h3>
