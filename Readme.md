@@ -1,4 +1,4 @@
-
+<!-- Replace your existing README content with this enhanced version -->
 
 <h1 align="center">Hi 👋, I'm MOHAMMED AMAAN</h1>
 <h3 align="center">Dedicated ML and AI Enthusiast</h3>
@@ -8,12 +8,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0hammedd-amaan" alt="m0hammedd-amaan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Analyzing the Variability in Spoken Responses of Depressed and Non-Depressed Persons**
-- 🌱 I’m currently learning **ML and AI**
-- 👯 I’m looking to collaborate on **Speech Recognition ML Projects**
-- 💬 Ask me about **React, Python, Flask, C**
-- 📫 How to reach me **amaanextra123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -59,11 +53,7 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m0hammedd-amaan&show_icons=true&locale=en&layout=compact" alt="m0hammedd-amaan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0hammedd-amaan&show_icons=true&locale=en" alt="m0hammedd-amaan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0hammedd-amaan&" alt="m0hammedd-amaan" /></p>
 
 <h3 align="left">Projects</h3>
 
