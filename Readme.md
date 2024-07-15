@@ -1,92 +1,79 @@
 <!-- Replace your existing README content with this enhanced version -->
 <!-- Add a style block with CSS to set the background for the body -->
-<style>
-  body {
-    background-image: url('
-https://github.com/M0hammedd-Amaan/image/blob/main/image-6.jpg'); /* Replace with your image URL */
-    background-size: cover;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-position: center;
-    font-family: Arial, sans-serif; /* Optional: Define a font for better readability */
-  }
-</style>
-<h1 align="center">Hi 👋, I'm MOHAMMED AMAAN</h1>
+<p align="center">
+  <img src="https://i.ibb.co/pb0qz2X/image-6.jpg" alt="Mohammed Amaan" width="100%">
+</p>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MOHAMMED AMAAN</h1>
 <h3 align="center">Dedicated ML and AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m0hammedd-amaan&label=Profile%20views&color=0e75b6&style=flat" alt="m0hammedd-amaan" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m0hammedd-amaan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0hammedd-amaan" alt="m0hammedd-amaan" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/amaan-p-569b3a227/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amaan-p-569b3a227" height="30" width="40" />
+- 🔭 I'm currently working on **Analyzing the Variability in Spoken Responses of Depressed and Non-Depressed Persons**
+- 🌱 I'm currently learning **Advanced ML and AI techniques**
+- 👯 I'm looking to collaborate on **Speech Recognition ML Projects**
+- 💬 Ask me about **React, Python, Flask, C**
+- 📫 How to reach me: **amaanextra123@gmail.com**
+
+---
+
+### 🛠 Languages and Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <!-- Add other tool icons here -->
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m0hammedd-amaan&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0hammedd-amaan&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+#### Speech Recognition Project
+- Research Intern at IIIT Hyderabad
+- Developing advanced speech recognition technology
+- Focusing on data collection, preprocessing, and model training
+- Enhancing system accuracy and efficiency
+
+#### Business Contract Validation Project
+- Completed under Intel Unnati Industrial Training program
+- Developed a robust contract validation system
+- Utilized ML techniques for data analysis and validation
+- Successfully met project goals and timelines
+
+---
+
+### 🤝 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/amaan-p-569b3a227/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <!-- Add other social media badges here -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-</p>
+<!-- CSS for profile image animation -->
 
 
-
-<h3 align="left">Projects</h3>
-
-**Speech Recognition Project**
-- Currently working with IIIT Hyderabad as a Research Intern on a project centered around speech recognition technology.
-- Played an active role in the development and implementation phases of the project, contributing to the research, experimentation, and testing processes.
-- Engaged in data collection, preprocessing, and model training, focusing on enhancing the accuracy and efficiency of the speech recognition system.
-- Worked closely with a multidisciplinary team to address challenges, troubleshoot issues, and optimize performance.
-- Demonstrated adaptability and problem-solving skills while navigating through complex technical requirements and project objectives.
-
-**Business Contract Validation Project**
-- Completed a project on business contract validation under the Intel Unnati Industrial Training program.
-- Collaborated with a team to develop a robust system for validating business contracts, ensuring compliance and accuracy.
-- Utilized advanced machine learning techniques and tools to analyze and validate contract data.
-- Successfully delivered the project by implementing effective solutions and meeting the project goals within the specified timeline.
-
-<h3 align="left">GitHub Stats</h3>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m0hammedd-amaan&show_icons=true&locale=en&layout=compact" alt="m0hammedd-amaan" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0hammedd-amaan&show_icons=true&locale=en" alt="m0hammedd-amaan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0hammedd-amaan&" alt="m0hammedd-amaan" /></p>
