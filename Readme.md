@@ -1,5 +1,16 @@
 <!-- Replace your existing README content with this enhanced version -->
-
+<!-- Add a style block with CSS to set the background for the body -->
+<style>
+  body {
+    background-image: url('
+https://github.com/M0hammedd-Amaan/image/blob/main/image-6.jpg'); /* Replace with your image URL */
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial, sans-serif; /* Optional: Define a font for better readability */
+  }
+</style>
 <h1 align="center">Hi 👋, I'm MOHAMMED AMAAN</h1>
 <h3 align="center">Dedicated ML and AI Enthusiast</h3>
 
