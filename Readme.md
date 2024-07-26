@@ -18,7 +18,7 @@
 - 🔭 I'm currently working on **Analyzing the Variability in Spoken Responses of Depressed and Non-Depressed Persons**
 - 🌱 I'm currently learning **Advanced ML and AI techniques**
 - 👯 I'm looking to collaborate on **Speech Recognition ML Projects**
-- 💬 Ask me about **React, Python, Flask, C**
+- 💬 Ask me about **ML, Python, front-end, C**
 - 📫 How to reach me: **amaanextra123@gmail.com**
 
 ---
@@ -35,20 +35,6 @@
   <!-- Add other tool icons here -->
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m0hammedd-amaan&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0hammedd-amaan&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🌟 Featured Projects
 
 #### Speech Recognition Project
@@ -64,7 +50,19 @@
 - Successfully met project goals and timelines
 
 ---
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m0hammedd-amaan&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0hammedd-amaan&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
 ### 🤝 Connect with me
 
 <p align="center">
