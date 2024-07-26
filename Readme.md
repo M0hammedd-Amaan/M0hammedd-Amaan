@@ -1,14 +1,14 @@
 <!-- Replace your existing README content with this enhanced version -->
 <!-- Add a style block with CSS to set the background for the body -->
 <p align="center">
-  <img src="https://i.ibb.co/pb0qz2X/image-6.jpg" alt="Mohammed Amaan" width="100%">
+<a href="https://ibb.co/zmsDnvL"><img src="https://i.ibb.co/4FW3mrD/White-Clean-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="White-Clean-Minimalist-Corporate-Personal-Profile-Linked-In-Banner" border="0"></a>
 </p>
 
-<h1 align="center">MOHAMMED AMAAN</h1>
-<h3 align="center">Dedicated ML and AI Enthusiast</h3>
+<h2 align="center">Dedicated ML and AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=m0hammedd-amaan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
 </p>
 
 ---
