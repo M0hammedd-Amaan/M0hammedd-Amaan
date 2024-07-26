@@ -3,13 +3,16 @@
 <p align="center">
 <a href="https://ibb.co/zmsDnvL"><img src="https://i.ibb.co/4FW3mrD/White-Clean-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="White-Clean-Minimalist-Corporate-Personal-Profile-Linked-In-Banner" border="0"></a>
 </p>
+<h2 align="center">Research intern at iiit hyderabad</h2>
 
-<h2 align="center">Dedicated ML and AI Enthusiast</h3>
+
+<h3 align="center">Dedicated ML and AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=m0hammedd-amaan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </p>
+
 
 ---
 
