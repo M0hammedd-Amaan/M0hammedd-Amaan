@@ -1,5 +1,4 @@
-<!-- Replace your existing README content with this enhanced version -->
-<!-- Add a style block with CSS to set the background for the body -->
+
 <p align="center">
 <a href="https://ibb.co/zmsDnvL"><img src="https://i.ibb.co/4FW3mrD/White-Clean-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="White-Clean-Minimalist-Corporate-Personal-Profile-Linked-In-Banner" border="0"></a>
 </p>
