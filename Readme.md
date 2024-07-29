@@ -11,7 +11,18 @@
   <img src="https://komarev.com/ghpvc/?username=m0hammedd-amaan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </p>
-
+<p align="center">
+ </a>
+ <a href="https://www.linkedin.com/in/amaan-p/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amaan"/>
+ </a>
+ <a href="https://www.instagram.com/_amaan.p/?hl=en" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="amaan" />
+ </a> 
+ <a href="https://m.facebook.com/amaan.polloorshangatil/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="amaan"  />
+  </a> 
+</p>
 
 ---
 
