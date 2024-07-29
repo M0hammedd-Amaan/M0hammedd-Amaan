@@ -76,14 +76,7 @@
 </p>
 
 ---
-### 🤝 Connect with me
 
-<p align="center">
-  <a href="https://linkedin.com/in/amaan-p-569b3a227/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <!-- Add other social media badges here -->
-</p>
 
 <!-- CSS for profile image animation -->
 
