@@ -10,7 +10,7 @@
     <a href="https://www.instagram.com/_amaan.p/?hl=en"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
     <a href="https://m.facebook.com/amaan.polloorshangatil/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
     <a href="mailto:amaanextra123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://m0hammedd-amaan.github.io/Portfoli/"><img src="https://img.shields.io/badge/-Website-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"/></a>
+    <a href="https://mohammed-amaan.static.domains/"><img src="https://img.shields.io/badge/-Website-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"/></a>
   </p>
   
   <img src="https://komarev.com/ghpvc/?username=m0hammedd-amaan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="border-radius: 8px; border: 2px solid #FF6347;" />
@@ -23,7 +23,7 @@
 -  Learning: **Exploring cutting-edge ML and AI methodologies** to enhance practical skills.
 -  Open to collaborate on: **Innovative Speech Recognition and ML projects.**
 -  Ask me about: **Machine Learning, Python programming, Front-end development, and C.**
--  For more details see my <a href="https://m0hammedd-amaan.github.io/Portfoli/" style="color: #FF4500;">potfolio</a>
+-  For more details see my <a href="https://mohammed-amaan.static.domains/" style="color: #FF4500;">potfolio</a>
 
 ## Experience
 
