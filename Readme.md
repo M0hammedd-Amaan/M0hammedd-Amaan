@@ -19,11 +19,11 @@
 ## About Me
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 Currently working on: **Analyzing Speech Patterns in Mental Health** using advanced ML and AI techniques.
-- 🌱 Learning: **Exploring cutting-edge ML and AI methodologies** to enhance practical skills.
-- 👯 Open to collaborate on: **Innovative Speech Recognition and ML projects.**
-- 💬 Ask me about: **Machine Learning, Python programming, Front-end development, and C.**
-- 📫 Reach me at: <a href="mailto:amaanextra123@gmail.com" style="color: #FF6347;">amaanextra123@gmail.com</a>
+-  Currently working on: **Analyzing Speech Patterns in Mental Health** using advanced ML and AI techniques.
+-  Learning: **Exploring cutting-edge ML and AI methodologies** to enhance practical skills.
+-  Open to collaborate on: **Innovative Speech Recognition and ML projects.**
+-  Ask me about: **Machine Learning, Python programming, Front-end development, and C.**
+-  For more details see my <a href="https://m0hammedd-amaan.github.io/Portfoli/" style="color: #FF4500;">potfolio</a>
 
 ## Experience
 
