@@ -23,7 +23,7 @@
 -  Learning: **Exploring cutting-edge ML and AI methodologies** to enhance practical skills.
 -  Open to collaborate on: **Innovative Speech Recognition and ML projects.**
 -  Ask me about: **Machine Learning, Python programming, Front-end development, and C.**
--  For more details see my <a href="https://mohammed-amaan.static.domains/" style="color: #FF4500;">potfolio</a>
+-  For more details see my <a href="https://mohammed-amaan.static.domains/" style="color: #FF4500;">portfolio</a>
 
 ## Experience
 
