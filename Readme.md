@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.ibb.co/4FW3mrD/White-Clean-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png" alt="Profile Banner" width="100%" style="border-radius: 8px; border: 3px solid #FF6347;">
   
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Mohammed+Amaan's;page+of+AI+and+ML!;Intern+at+IIIT+Hyderabad&center=true&width=380&height=45" alt="Typing Text" style="border-radius: 8px; background: #4B0082; color: #FFD700;">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Mohammed+Amaan's;page+of+AI+and+ML!!;Intern+at+IIIT+Hyderabad&center=true&width=380&height=45" alt="Typing Text" style="border-radius: 8px; background: #4B0082; color: #FFD700;">
   
   <h3 style="color: #FF6347;">Research Intern at IIIT Hyderabad | ML and AI Enthusiast</h3>
 
