@@ -120,6 +120,7 @@
   </tr>
 </table>
 
+
 <div align="center">
   <h2 style="color: #FF6347;">GitHub Stats</h2>
   
