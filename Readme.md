@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Mohammed+Amaan's;page+of+AI+and+ML!!;Intern+at+IIIT+Hyderabad&center=true&width=380&height=45" alt="Typing Text" style="border-radius: 8px; background: #4B0082; color: #FFD700;">
   
   <h3 style="color: #FF6347;">Research Intern at IIIT Hyderabad | ML and AI Enthusiast</h3>
-
   <p>
     <a href="https://www.linkedin.com/in/amaan-p/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://www.instagram.com/_amaan.p/?hl=en"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
