@@ -9,7 +9,7 @@
     <a href="https://www.instagram.com/_amaan.p/?hl=en"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
     <a href="https://m.facebook.com/amaan.polloorshangatil/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
     <a href="mailto:amaanextra123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://mohammed-amaan.static.domains/"><img src="https://img.shields.io/badge/-Website-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"/></a>
+    <a href="m0hammedd-amaan.github.io/Portfoli/"><img src="https://img.shields.io/badge/-Website-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"/></a>
     <a href="https://calendly.com/ma-csb2125-saintgits/30min">
     <img src="https://img.shields.io/badge/Schedule%20a%20Meeting-4285F4?style=for-the-badge&logo=Google%20Calendar&logoColor=white" alt="Schedule a Meeting" />
   </a>
